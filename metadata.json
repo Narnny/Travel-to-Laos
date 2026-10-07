@@ -1,0 +1,6 @@
+{
+  "name": "ທ່ຽວລາວ 18 ແຂວງ - Laos Travel Explorer",
+  "description": "ຄູ່ມືທ່ອງທ່ຽວລາວຄົບທັງ 18 ແຂວງ ພາກເໜືອ, ພາກກາງ, ພາກໃຕ້ ພ້ອມຂໍ້ມູນໄລຍະທາງ, ເວລາເດີນທາງ, ສະຖານທີ່ຍອດນິຍົມ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
